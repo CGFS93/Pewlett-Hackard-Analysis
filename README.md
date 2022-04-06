@@ -23,13 +23,16 @@ create a Retirement Titles table that holds all the titles of employees who were
   The list has to be further filtered to remove duplicate entities that have changed titles over the years.
   
 -Retirement status:
+
   After conducting the analysis it was found that there is currently a large number of employees of retirement age holding senior titles (57,668/90,398 = 64%) with     around 64% of the staff to retire. 
   
--Senior Employees 
+-Senior Employees:
+
   The list of candidates that can qualify to become members of the mentorship program, they can be referenced as "senior" employees. Given the vast number of employees departing and the skillsets they possess, the firm decides to select a group of employees born in 1965 (i.e., they are 10 years younger than the retirees) and turn them into trainers for new hires and coworkers who will be promoted to fill future openings.
 
   
--Result Overview
+-Result Overview:
+
   At the moment at Pewlett Hackard, 64% of their employees are getting ready for retirement or being redirected to their mentorship initiatives, which will mean that they are likely going to need an extensive hiring process in the upcoming years. Since a significant amount of future retirees hold Senior positions the mentorship program should provide a capacitation buffer for the extensive expertise that will be leaving the company in the years to come. 
   
 
