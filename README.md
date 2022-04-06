@@ -4,7 +4,7 @@
 
 Determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. Then, you’ll write a report that summarizes your analysis and helps prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age.
 
-
+![Mentorship Eligibility](Images/Mentorship Eligibility.png)
 ### Purpose:
 
 create a Retirement Titles table that holds all the titles of employees who were born between January 1, 1952 and December 31, 1955. Because some employees may have multiple titles in the database—for example, due to promotions. Create a table that contains the most recent title of each employee. Create a table that has the number of retirement-age employees by most recent job title, and exclude those employees who have already left the company.
